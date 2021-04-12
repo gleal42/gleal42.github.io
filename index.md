@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/gleal42/gleal42.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Gonçalo Leal.
+I'm a passionate International Business & Strategy, Management and Economics Graduate (Lancaster University Management School, Catolica Porto Business School and FEP, respectively), who, after taking part in a 6-month internship experience at Warner Music Group through the program Inov Contacto, helping the Business Development and New Business and Ventures team is ready for the next challenge in a dynamic industry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm focused on adding value to the world through a positive impact on all the people that interact with me in any way and through the hard work I put into what I do. I love to create content and to challenge myself.
 
-### Markdown
+I'm also extremely passionate about technology and learning. While I am searching for the next great opportunity, I'm learning how to code at School 42, considered by many the best coding school in the world, with a very effective and flexible learning style. I believe that with these new digital tools I will play a much more active role, in the near future, which is dominated by new technologies and business models.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gleal42/gleal42.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](https://cdn.intra.42.fr/users/medium_gleal.jpg)
